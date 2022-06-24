@@ -13,3 +13,19 @@
         <li>endroid/qrcode</li>
     </ul>
 </p>
+
+<h1>Demo</h1>
+
+<h4>Step by step</h4>
+<img src="img/1.png" alt="" srcset="">
+<br>
+<hr>
+<br>
+<img src="img/2.png" alt="" srcset="">
+<br>
+<hr>
+<br>
+<img src="img/3.png" alt="" srcset="">
+<br>
+<h4>Output</h4>
+<img src="img/hasil.png" alt="" srcset="">
