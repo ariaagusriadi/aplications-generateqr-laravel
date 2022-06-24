@@ -29,3 +29,6 @@
 <br>
 <h4>Output</h4>
 <img src="img/hasil.png" alt="" srcset="">
+<br>
+<h4>Hasil scan</h4>
+<img src="img/scan.jpeg" alt="">
